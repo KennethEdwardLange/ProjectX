@@ -1,0 +1,20 @@
+NAME
+    newproc - template man page for procs
+
+SYNOPSIS
+    newproc [command local path]
+
+DESCRIPTION
+     This command will create the nessisary files if you can to write a new command. 
+     newproc will create the template .man file create the .java file, and fill it with the necessary imports and extensions, and resgister the command in the procreg file 
+     IMPORTANT NOTE: the packages in the path must exist, 'newproc' will NOT create the necisssary packages for the new command
+     
+OPTIONS
+     -[command local path] 		The local path for new command given as a string args
+
+EXAMPLE
+	'newproc global.listbuttons'
+	'newproc world.logout'
+
+AUTHOR
+     Mitchell Hoppe

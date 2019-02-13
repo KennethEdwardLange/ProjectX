@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="ProjectX/res/libs/natives"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="lib" path="res/libs/jars/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="res/libs/jars/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="res/libs/jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="res/libs/jars/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="res/libs/jars/lwjgl.jar"/>
+	<classpathentry kind="lib" path="res/libs/jars/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="lib" path="res/libs/jars/slick-util.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

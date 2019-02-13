@@ -1,0 +1,14 @@
+NAME
+    <name> - template man page for procs
+
+SYNOPSIS
+    <name> [-bar] [-c config-file ] file...
+
+DESCRIPTION
+     <description>
+
+OPTIONS
+     -<switches>
+
+AUTHOR
+     <author>

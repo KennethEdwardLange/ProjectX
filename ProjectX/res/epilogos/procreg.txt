@@ -1,0 +1,15 @@
+# Lines with a '#' are ignored by the Parser
+# This is the register file for the commands that the terminal will use
+# Enter the local package directory starting from the working directory (in the CommandParser class)
+global.exit				# exits the client
+global.echo				# prints the args to the terminal
+global.man				# prints the man page for the specified command
+global.close			# closes the terminal
+global.host				# hosts a game
+global.join				# joins an existing game
+global.list				# lists the item given
+global.newproc			# generates the necessary files for a new command
+world.listentities		# delete later, should be a private proc
+world.listcreatures		# lists the creatures in the world
+world._32				# sends the creature array over the socket
+world._96				# receives the creature array over the socket

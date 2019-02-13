@@ -1,0 +1,19 @@
+NAME
+    list - lists the given variable
+
+SYNOPSIS
+    list [-p] [-c] [-e]
+
+DESCRIPTION
+     lists out in the terminal the item given
+
+OPTIONS
+     --p 	lists out the procs loaded into the CommandParser
+     
+     --c 	lists the creatures in the world
+     
+     --e 	lists the entities in the world
+     
+
+AUTHOR
+     Mitchell Hoppe

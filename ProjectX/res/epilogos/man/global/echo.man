@@ -1,0 +1,15 @@
+NAME
+    echo - prints the arg to the terminal
+
+SYNOPSIS
+    echo [string]
+
+DESCRIPTION
+     Will take the given string, including spaces an print the string to the terminal
+
+EXAMPLE
+	'echo hello world'
+	'hello world'
+
+AUTHOR
+     Mitchell Hoppe

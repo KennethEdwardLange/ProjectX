@@ -1,0 +1,2 @@
+Menu buttons uses Arial Black
+Opasity of shadow is 206 color dark grey

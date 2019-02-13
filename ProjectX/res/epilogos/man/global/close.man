@@ -1,0 +1,11 @@
+NAME
+    close - closes the terminal
+
+SYNOPSIS
+    close
+
+DESCRIPTION
+     closes the terminal by setting the frame visibility to false and disposing the frame
+
+AUTHOR
+     Mitchell Hoppe

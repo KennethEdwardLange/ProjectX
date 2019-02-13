@@ -1,0 +1,17 @@
+NAME
+    hosts - hosts a game for other people to join
+
+SYNOPSIS
+    host [ip_address] [port_num]
+
+DESCRIPTION
+     When hosting a game, the host manages the NPS so that the players who join don't have to.
+     By default the ip and port are hard-coded in the DataProtocol class, but the user can specify the ip and port. 
+     These two must be entered together
+
+OPTIONS
+     [ip_address]	the ip address of the server that the client wants to connect to.
+     [port]			the port number of the server
+
+AUTHOR
+     Mitchell Hoppe

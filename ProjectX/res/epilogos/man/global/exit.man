@@ -1,0 +1,15 @@
+NAME
+    exit - exits the client
+
+SYNOPSIS
+    exit [-!]
+
+DESCRIPTION
+     'exit' exits the client by running the engineGL.exit() method if it can be accessed.
+     if not the program can override the engine by calling System.exit(0) if the user specifies
+
+OPTIONS
+     -!   Overrides the engine method if the engine for handler is null
+
+AUTHOR
+     Mitchell Hoppe
